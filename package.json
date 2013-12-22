@@ -1,0 +1,15 @@
+{
+  "name": "mbta-data",
+  "description": "MBTA transit feed API",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Ryan Muller",
+      "email": "ryan.a.muller@gmail.com",
+      "web": "http://ryan.muller.io"
+    }
+  ],
+  "dependencies": {
+    "request": "2.30.x"
+  }
+}
