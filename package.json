@@ -11,5 +11,8 @@
   ],
   "dependencies": {
     "request": "2.30.x"
+  },
+  "devDependencies": {
+    "mocha":"1.16.x"
   }
 }
