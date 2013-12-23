@@ -2,6 +2,8 @@
 
 Simple interface with MBTA's realtime and schedule data
 
+[![Build Status](https://travis-ci.org/ryanthejuggler/mbta-data.png?branch=develop)](https://travis-ci.org/ryanthejuggler/mbta-data)
+
 ```
 var MBTA = require('mbta-data');
 var mbta = new MBTA('your-developer-key');
