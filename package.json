@@ -3,6 +3,7 @@
   "description": "MBTA transit feed API",
   "version": "0.0.1",
   "repository": "https://github.com/ryanthejuggler/mbta-data.git",
+  "license": "GNU General Public License",
   "maintainers": [
     {
       "name": "Ryan Muller",
@@ -15,5 +16,8 @@
   },
   "devDependencies": {
     "mocha":"1.16.x"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
   }
 }
