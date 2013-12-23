@@ -1,7 +1,7 @@
 {
   "name": "mbta-data",
   "description": "MBTA transit feed API",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/ryanthejuggler/mbta-data.git",
   "license": "GNU General Public License",
   "maintainers": [
