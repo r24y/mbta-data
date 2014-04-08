@@ -12,10 +12,12 @@
     }
   ],
   "dependencies": {
-    "request": "2.30.x"
+    "request": "2.30.x",
+    "lodash": "~2.4.1",
+    "async": "~0.7.0"
   },
   "devDependencies": {
-    "mocha":"1.16.x"
+    "mocha": "1.16.x"
   },
   "scripts": {
     "test": "mocha -R spec"
