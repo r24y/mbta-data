@@ -14,7 +14,7 @@
   "dependencies": {
     "request": "2.30.x",
     "lodash": "~2.4.1",
-    "async": "~0.7.0"
+    "async": "0.2.x"
   },
   "devDependencies": {
     "mocha": "1.16.x"
